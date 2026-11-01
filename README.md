@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-banner.svg" alt="Ibrahima Poukone Yogne — Data, IA et systèmes d’information" width="100%" />
+  <img src="terminal-banner.svg" alt="Ibrahima Poukone Yogne — Data, IA et systèmes d’information" width="100%" />
 </p>
 
 <p align="center">
